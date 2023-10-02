@@ -1,0 +1,6 @@
+   import facebook
+
+   # ... existing code ...
+
+   def fetch_posts():
+       # ... code to fetch posts using the Facebook API ...
