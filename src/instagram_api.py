@@ -1,0 +1,6 @@
+   from instagram_private_api import Client
+
+   # ... existing code ...
+
+   def fetch_posts():
+       # ... code to fetch posts using the Instagram API ...
